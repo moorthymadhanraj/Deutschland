@@ -1,5 +1,5 @@
 # Deutschland
-Deutsche Sprache und andere Leistungen in Deutschland
+Deutsche Sprache und andere Leistungen in Deutschland.
 
 # Zertifikat
 * Goethe Zertifikat B1
